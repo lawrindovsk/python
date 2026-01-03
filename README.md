@@ -11,7 +11,7 @@ Bem-vindo ao meu repositório de estudos de Python! Aqui concentro exercícios, 
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado por tópicos para facilitar a navegação:
+O repositório será organizado por tópicos para facilitar a navegação:
 
 - **/basics**: Sintaxe básica, variáveis, loops e condicionais.
 - **/data-structures**: Listas, dicionários, tuplas e sets.
