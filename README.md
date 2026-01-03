@@ -1,7 +1,11 @@
 # 🐍 Python - Estudos & Exercises
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
-![Status](https://img.shields.io/badge/status-active-success)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red?style=flat)
+
 
 Bem-vindo ao meu repositório de estudos de Python! Aqui concentro exercícios, anotações e pequenos projetos desenvolvidos durante meu aprendizado da linguagem.
 
